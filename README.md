@@ -49,6 +49,7 @@ Write a program consisting of a server application and a client application to m
 
 - Data
     - image:
+    
         ![](./image/p11.png)
 
     - Account
