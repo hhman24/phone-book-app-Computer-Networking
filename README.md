@@ -44,7 +44,7 @@ Write a program consisting of a server application and a client application to m
 
 ## 🛢️ Database
 - UI
-    ![](./image/p10.png)
+![](./image/p10.png)
 
 - Data
     - image:
