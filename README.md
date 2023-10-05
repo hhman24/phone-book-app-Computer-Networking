@@ -27,9 +27,11 @@ Write a program consisting of a server application and a client application to m
 
 ## ⌨️ Function
 - Query contact information: The client queries the list of members being managed by the server, displays on the interface at least the following information: code, full name, phone number, email
-    ![](./image/p1.png)
+  
+     ![](./image/p1.png)
 
 - Query information about 1 member in the phonebook: The client queries a member of the directory that is being managed by the server, displays on the interface at least the following information: code, full name, phone number, email
+
     ![](./image/p2.png)
 
     - Result:
